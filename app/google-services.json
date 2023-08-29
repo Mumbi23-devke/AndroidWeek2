@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085793621382",
+    "project_id": "android-week2",
+    "storage_bucket": "android-week2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085793621382:android:4e32840d16669d40594807",
+        "android_client_info": {
+          "package_name": "com.example.android_week2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085793621382-g5lkkbo1uopeck01lpk1ubrbc97nj03o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0YJhuIW4AbT_9XDyzQ9LWr9IwGcYtx30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085793621382-g5lkkbo1uopeck01lpk1ubrbc97nj03o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
